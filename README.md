@@ -11,7 +11,7 @@
 
 La plataforma está orientada a analistas de riesgos, mesas de dinero y consultores financieros que requieren tableros rápidos, resilientes y con actualización automática sin fricciones operativas.
 
-👉 **[Ver Aplicación en Vivo en Shinyapps.io](https://[TU-USUARIO].shinyapps.io/latam_macro_tracker/)**
+👉 **[Ver Aplicación en Vivo en Shinyapps.io](https://francolupi.shinyapps.io/latam_macro_tracker/)**
 
 ---
 
